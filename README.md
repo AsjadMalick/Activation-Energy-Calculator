@@ -3,7 +3,7 @@ Software designed to help researchers of the Department of Chemical and Petroleu
 
 Activation Energy Calculator
 AUG 2017
-V1.0 SEP 2017
+V1.0.3 SEP 2017
 
 Developer: Asjad Hassan Malick,  asjad.malick@ucalgary.ca
 Supervised by Nedal Marei, Dr. Azfar Hassan, Research Associate
